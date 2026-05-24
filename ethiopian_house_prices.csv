@@ -1,0 +1,501 @@
+neighborhood,zone,area_sqm,bedrooms,bathrooms,age_years,floors,has_parking,has_garden,near_cbd,near_ring_road,near_school,near_hospital,condition,price_etb
+Sarbet,premium,132,2,1,7,1,1,0,1,1,1,0,new,40606000
+Kazanchis,premium,336,1,1,2,3,1,0,1,1,1,1,new,133915000
+Piassa,mid,113,1,1,18,1,0,0,1,0,1,0,good,15072000
+Megenagna,mid-high,135,3,2,2,1,1,0,0,1,1,1,new,33874000
+Yeka,mid,163,1,1,17,1,0,1,0,0,1,0,fair,21146000
+Bole Bulbula,mid,133,2,1,1,1,1,0,0,0,0,0,new,21218000
+Goro,emerging,80,2,2,5,1,0,0,0,0,0,0,fair,7943000
+Kazanchis,premium,207,4,3,5,2,1,1,1,1,1,1,good,71812000
+Old Airport,premium,237,1,1,12,1,1,0,1,1,1,1,fair,54802000
+Kolfe,emerging,63,2,1,7,2,1,0,0,0,0,0,fair,5740000
+Kirkos,mid,111,2,1,4,1,1,0,1,0,0,1,new,22522000
+CMC,mid-high,188,4,3,12,2,1,0,0,1,1,0,fair,33946000
+Bole,premium,178,5,5,24,1,1,1,1,1,1,1,fair,38982000
+Yeka,mid,124,2,1,27,2,1,0,0,0,1,0,good,14472000
+Piassa,mid,159,4,3,19,2,0,0,1,0,1,0,fair,17816000
+Kirkos,mid,70,1,1,26,2,0,0,1,0,0,1,good,8171000
+Piassa,mid,81,2,2,30,2,0,0,1,0,1,0,good,9460000
+Bole Bulbula,mid,116,3,3,3,1,0,0,0,0,0,0,fair,11395000
+Kirkos,mid,88,1,1,22,1,1,0,1,0,0,1,new,14498000
+Kazanchis,premium,383,2,2,21,3,1,1,1,1,1,1,good,111691000
+Kirkos,mid,120,1,1,25,1,0,0,1,0,0,1,new,16894000
+Akaki Kality,emerging,104,1,1,1,1,0,0,0,0,0,0,new,11687000
+Kolfe,emerging,62,2,1,8,1,0,0,0,0,0,0,poor,4505000
+Sarbet,premium,145,4,3,2,1,1,0,1,1,1,0,good,38637000
+Goro,emerging,52,1,1,0,1,1,0,0,0,0,0,poor,4557000
+Piassa,mid,144,3,2,6,1,0,0,1,0,1,0,new,25896000
+Kirkos,mid,121,4,3,1,1,1,0,1,0,0,1,good,19398000
+Summit,mid-high,183,1,1,18,3,1,1,0,1,0,0,new,35429000
+Lideta,mid,100,2,1,21,1,1,0,1,0,1,1,fair,11242000
+Lebu,mid,118,2,1,0,2,0,0,0,0,0,0,new,18266000
+Yeka,mid,76,2,1,28,1,0,0,0,0,1,0,good,8256000
+Lebu,mid,138,4,3,21,1,1,0,0,0,0,0,new,18092000
+Sarbet,premium,174,4,3,8,1,1,0,1,1,1,0,fair,36881000
+Yeka,mid,124,3,3,28,1,1,0,0,0,1,0,new,16905000
+Old Airport,premium,121,3,2,20,1,1,0,1,1,1,1,good,30828000
+Akaki Kality,emerging,116,1,1,2,2,1,0,0,0,0,0,good,13339000
+Kirkos,mid,130,2,2,4,1,0,0,1,0,0,1,new,25597000
+Summit,mid-high,250,1,1,24,2,1,1,0,1,0,0,good,38663000
+CMC,mid-high,125,3,2,5,2,1,0,0,1,1,0,fair,23454000
+Summit,mid-high,148,2,1,12,1,1,0,0,1,0,0,poor,17176000
+Kolfe,emerging,89,2,1,7,1,0,0,0,0,0,0,poor,6076000
+Yeka,mid,104,3,3,21,2,1,0,0,0,1,0,fair,12881000
+Yeka,mid,82,3,3,1,1,0,0,0,0,1,0,fair,12043000
+Lideta,mid,74,2,1,8,1,0,0,1,0,1,1,new,12992000
+Gerji,mid-high,173,3,2,30,2,1,1,0,0,1,0,fair,20709000
+Lebu,mid,124,2,2,10,1,0,0,0,0,0,0,good,14667000
+Goro,emerging,67,2,2,12,1,1,0,0,0,0,0,fair,5806000
+Kirkos,mid,137,4,4,14,2,0,0,1,0,0,1,good,20992000
+CMC,mid-high,248,1,1,16,3,1,1,0,1,1,0,fair,41028000
+Summit,mid-high,159,2,1,4,1,1,0,0,1,0,0,poor,21796000
+Kolfe,emerging,98,3,2,22,1,1,0,0,0,0,0,poor,5446000
+Bole,premium,174,3,2,5,3,1,1,1,1,1,1,poor,43688000
+Sarbet,premium,353,2,2,21,3,1,1,1,1,1,0,fair,82481000
+Lideta,mid,114,3,3,28,1,0,0,1,0,1,1,poor,8886000
+Yeka,mid,158,4,4,20,2,0,1,0,0,1,0,good,20991000
+Piassa,mid,70,1,1,7,1,0,0,1,0,1,0,good,9877000
+Piassa,mid,119,2,1,6,1,1,0,1,0,1,0,new,23616000
+Goro,emerging,106,1,1,9,1,1,0,0,0,0,0,good,11133000
+Jemo,emerging,48,2,2,21,1,1,0,0,0,0,0,good,3835000
+Piassa,mid,63,2,1,2,1,1,0,1,0,1,0,poor,7470000
+Ayat,mid,87,2,2,10,1,1,0,0,0,0,0,fair,9665000
+Yeka,mid,166,1,1,0,2,1,0,0,0,1,0,good,31107000
+Old Airport,premium,135,2,1,26,1,1,0,1,1,1,1,good,28591000
+Sarbet,premium,231,3,3,24,3,1,0,1,1,1,0,new,59080000
+Lebu,mid,73,2,1,29,2,0,0,0,0,0,0,poor,5227000
+Kazanchis,premium,244,1,1,27,1,1,1,1,1,1,1,new,61637000
+Bole Bulbula,mid,68,2,2,0,1,1,0,0,0,0,0,new,9975000
+Kolfe,emerging,64,2,1,23,2,1,0,0,0,0,0,fair,4649000
+Jemo,emerging,104,2,2,10,1,1,0,0,0,0,0,fair,8313000
+Kolfe,emerging,117,3,3,10,1,0,0,0,0,0,0,good,10186000
+Yeka,mid,103,2,2,17,1,0,0,0,0,1,0,new,14812000
+Piassa,mid,157,2,2,20,1,1,1,1,0,1,0,new,24217000
+Summit,mid-high,158,4,4,15,2,1,1,0,1,0,0,poor,21738000
+Bole Bulbula,mid,149,3,3,9,1,0,0,0,0,0,0,good,16358000
+CMC,mid-high,129,2,2,8,2,1,0,0,1,1,0,fair,24593000
+Lebu,mid,89,2,1,9,2,0,0,0,0,0,0,good,11569000
+Piassa,mid,97,1,1,3,2,1,0,1,0,1,0,fair,14835000
+CMC,mid-high,93,2,2,3,1,1,0,0,1,1,0,poor,14018000
+Old Airport,premium,197,2,2,2,1,1,1,1,1,1,1,poor,50895000
+Summit,mid-high,213,3,3,29,3,1,1,0,1,0,0,poor,22002000
+Sarbet,premium,226,5,4,8,1,1,1,1,1,1,0,good,55502000
+Bole,premium,329,3,3,9,2,1,0,1,1,1,1,fair,93295000
+Summit,mid-high,147,4,3,13,1,1,0,0,1,0,0,good,24154000
+Megenagna,mid-high,98,1,1,25,1,1,0,0,1,1,1,fair,13776000
+Lebu,mid,149,3,3,16,1,1,0,0,0,0,0,new,20953000
+Ayat,mid,137,2,1,2,2,0,0,0,0,0,0,new,22901000
+Yeka,mid,133,1,1,15,1,1,0,0,0,1,0,fair,15691000
+Jemo,emerging,56,2,2,13,2,0,0,0,0,0,0,new,5674000
+Jemo,emerging,81,2,1,14,1,0,0,0,0,0,0,fair,5374000
+Lideta,mid,165,1,1,13,3,0,1,1,0,1,1,poor,20855000
+Gerji,mid-high,148,4,3,29,1,1,0,0,0,1,0,poor,14380000
+Bole,premium,242,2,2,17,2,1,0,1,1,1,1,new,75823000
+Sarbet,premium,356,1,1,15,2,1,1,1,1,1,0,fair,78179000
+Jemo,emerging,76,2,1,12,2,0,0,0,0,0,0,good,6775000
+Akaki Kality,emerging,88,3,3,26,2,0,0,0,0,0,0,fair,6221000
+Jemo,emerging,64,2,2,11,2,0,0,0,0,0,0,poor,4082000
+Gerji,mid-high,141,4,4,7,1,1,0,0,0,1,0,new,26989000
+Goro,emerging,94,1,1,30,2,0,0,0,0,0,0,fair,7031000
+Kolfe,emerging,57,2,2,0,1,1,0,0,0,0,0,good,5618000
+Yeka,mid,103,3,3,20,1,0,0,0,0,1,0,poor,10457000
+Jemo,emerging,114,1,1,7,1,1,0,0,0,0,0,good,10682000
+Sarbet,premium,171,3,2,22,1,1,0,1,1,1,0,new,37992000
+Bole Bulbula,mid,107,2,1,7,2,1,0,0,0,0,0,good,12352000
+Goro,emerging,124,4,3,15,1,1,0,0,0,0,0,good,11907000
+Yeka,mid,145,1,1,28,2,0,0,0,0,1,0,good,15939000
+Kirkos,mid,98,2,2,14,1,1,0,1,0,0,1,poor,11288000
+Goro,emerging,118,2,2,22,2,0,0,0,0,0,0,poor,7611000
+Old Airport,premium,374,2,1,19,1,1,1,1,1,1,1,good,101456000
+Megenagna,mid-high,240,1,1,9,1,1,1,0,1,1,1,fair,46643000
+Lebu,mid,101,2,1,6,2,0,0,0,0,0,0,fair,12487000
+CMC,mid-high,145,3,3,23,1,1,0,0,1,1,0,new,24323000
+Summit,mid-high,181,4,4,2,1,1,1,0,1,0,0,fair,30686000
+Yeka,mid,134,3,3,3,1,1,0,0,0,1,0,new,26638000
+Ayat,mid,177,4,3,20,2,0,1,0,0,0,0,poor,13329000
+Old Airport,premium,275,3,2,3,3,1,0,1,1,1,1,good,91448000
+Piassa,mid,113,3,2,28,1,0,0,1,0,1,0,poor,9794000
+Yeka,mid,64,2,1,14,1,0,0,0,0,1,0,fair,7308000
+Piassa,mid,175,5,5,1,1,0,0,1,0,1,0,poor,19832000
+Bole,premium,145,3,2,4,2,1,0,1,1,1,1,good,45807000
+Gerji,mid-high,230,2,1,10,3,1,1,0,0,1,0,new,50488000
+Megenagna,mid-high,218,2,1,3,1,1,1,0,1,1,1,good,48264000
+Summit,mid-high,230,3,2,5,1,1,0,0,1,0,0,poor,30673000
+Jemo,emerging,102,2,1,14,2,1,0,0,0,0,0,new,10750000
+Lideta,mid,98,2,1,1,1,1,0,1,0,1,1,poor,12848000
+Kolfe,emerging,54,1,1,19,1,0,0,0,0,0,0,fair,3761000
+Ayat,mid,108,3,3,14,1,1,0,0,0,0,0,new,14288000
+Piassa,mid,152,2,2,14,2,1,1,1,0,1,0,poor,17596000
+Akaki Kality,emerging,85,2,2,30,1,0,0,0,0,0,0,new,6080000
+Akaki Kality,emerging,57,2,1,17,2,0,0,0,0,0,0,fair,4498000
+Akaki Kality,emerging,51,2,2,11,2,0,0,0,0,0,0,good,4606000
+Sarbet,premium,299,4,4,3,3,1,1,1,1,1,0,good,99864000
+Piassa,mid,63,2,2,0,2,0,0,1,0,1,0,fair,10254000
+CMC,mid-high,116,3,3,2,1,1,0,0,1,1,0,new,25333000
+Goro,emerging,98,2,2,5,2,0,0,0,0,0,0,fair,10264000
+Kazanchis,premium,146,2,1,24,2,1,0,1,1,1,1,new,40159000
+Akaki Kality,emerging,107,3,3,13,2,0,0,0,0,0,0,new,10906000
+Kirkos,mid,122,4,4,1,2,0,0,1,0,0,1,new,22794000
+Gerji,mid-high,115,2,2,10,1,1,0,0,0,1,0,new,21717000
+Megenagna,mid-high,177,4,3,16,2,1,1,0,1,1,1,new,42171000
+Akaki Kality,emerging,47,2,1,27,1,0,0,0,0,0,0,poor,2573000
+Sarbet,premium,327,1,1,5,3,1,1,1,1,1,0,poor,80526000
+Kazanchis,premium,343,1,1,13,3,1,1,1,1,1,1,new,119091000
+Ayat,mid,88,2,1,2,1,1,0,0,0,0,0,good,12254000
+Megenagna,mid-high,140,1,1,8,1,1,0,0,1,1,1,good,30163000
+Kazanchis,premium,210,5,5,14,3,1,1,1,1,1,1,poor,50754000
+Ayat,mid,170,5,5,4,2,0,1,0,0,0,0,fair,20722000
+Kazanchis,premium,278,3,3,1,2,1,0,1,1,1,1,new,110157000
+Kazanchis,premium,379,3,3,18,1,1,1,1,1,1,1,poor,79770000
+Gerji,mid-high,162,4,4,16,1,1,0,0,0,1,0,poor,17649000
+Ayat,mid,151,1,1,1,2,0,1,0,0,0,0,good,21645000
+Goro,emerging,97,2,1,25,1,1,0,0,0,0,0,new,9116000
+Goro,emerging,81,2,1,10,2,0,0,0,0,0,0,good,9076000
+Goro,emerging,61,2,1,9,2,1,0,0,0,0,0,fair,6379000
+Lideta,mid,71,2,2,0,1,0,0,1,0,1,1,good,11622000
+Gerji,mid-high,137,2,1,2,1,1,0,0,0,1,0,new,28930000
+Lideta,mid,64,2,1,19,1,0,0,1,0,1,1,good,8740000
+CMC,mid-high,192,1,1,11,1,1,1,0,1,1,0,poor,28442000
+Kolfe,emerging,74,2,1,9,1,1,0,0,0,0,0,good,6900000
+Kolfe,emerging,104,2,2,16,1,1,0,0,0,0,0,good,8962000
+Yeka,mid,66,2,2,17,2,1,0,0,0,1,0,new,10664000
+Yeka,mid,117,3,2,26,1,0,0,0,0,1,0,poor,10834000
+Akaki Kality,emerging,51,2,2,7,1,0,0,0,0,0,0,fair,4081000
+Sarbet,premium,291,2,1,1,2,1,0,1,1,1,0,good,87072000
+Bole,premium,160,1,1,6,3,1,1,1,1,1,1,poor,40172000
+Lebu,mid,75,1,1,13,2,1,0,0,0,0,0,poor,6887000
+Jemo,emerging,121,4,3,20,1,1,0,0,0,0,0,good,8520000
+Bole Bulbula,mid,90,3,3,5,1,1,0,0,0,0,0,fair,9023000
+Lideta,mid,160,4,3,12,2,1,0,1,0,1,1,fair,20292000
+Kazanchis,premium,296,2,1,24,2,1,1,1,1,1,1,good,68819000
+CMC,mid-high,198,3,2,25,2,1,0,0,1,1,0,new,32706000
+Gerji,mid-high,90,2,2,16,1,1,0,0,0,1,0,poor,9970000
+Gerji,mid-high,153,3,2,27,2,1,1,0,0,1,0,new,25907000
+Goro,emerging,101,2,2,5,1,0,0,0,0,0,0,fair,10272000
+Kazanchis,premium,337,1,1,19,1,1,1,1,1,1,1,fair,72522000
+Lebu,mid,99,2,2,5,1,1,0,0,0,0,0,poor,9627000
+Bole Bulbula,mid,138,3,3,20,1,1,0,0,0,0,0,new,16018000
+Lideta,mid,162,5,4,30,2,0,1,1,0,1,1,new,20615000
+Bole Bulbula,mid,106,2,1,19,1,0,0,0,0,0,0,fair,8956000
+Kirkos,mid,77,2,2,12,1,0,0,1,0,0,1,good,11829000
+CMC,mid-high,207,4,4,29,2,1,1,0,1,1,0,fair,27879000
+Lebu,mid,148,3,2,3,1,0,0,0,0,0,0,poor,14378000
+Kazanchis,premium,283,5,5,22,3,1,0,1,1,1,1,fair,69039000
+CMC,mid-high,172,4,3,3,1,1,1,0,1,1,0,good,37131000
+Piassa,mid,133,3,3,25,1,1,0,1,0,1,0,new,17146000
+Jemo,emerging,112,2,2,26,1,1,0,0,0,0,0,fair,6832000
+Lideta,mid,104,1,1,24,1,1,0,1,0,1,1,new,15432000
+Lebu,mid,81,1,1,29,1,1,0,0,0,0,0,fair,7034000
+Piassa,mid,95,1,1,19,2,1,0,1,0,1,0,good,13596000
+CMC,mid-high,248,4,4,26,1,1,1,0,1,1,0,new,41408000
+Kirkos,mid,93,1,1,19,1,1,0,1,0,0,1,fair,11424000
+Summit,mid-high,183,2,2,2,1,1,1,0,1,0,0,poor,25948000
+Ayat,mid,137,2,2,27,2,1,0,0,0,0,0,fair,12174000
+Bole Bulbula,mid,125,4,3,10,1,0,0,0,0,0,0,fair,11744000
+Old Airport,premium,268,3,3,7,1,1,1,1,1,1,1,fair,79843000
+Gerji,mid-high,120,2,2,15,1,1,0,0,0,1,0,poor,13120000
+Lideta,mid,118,1,1,18,1,0,0,1,0,1,1,fair,13755000
+Jemo,emerging,81,3,2,27,1,0,0,0,0,0,0,fair,4819000
+Bole Bulbula,mid,65,2,1,18,1,1,0,0,0,0,0,fair,5433000
+Piassa,mid,95,3,2,4,1,1,0,1,0,1,0,fair,14292000
+Bole Bulbula,mid,156,2,1,19,1,1,1,0,0,0,0,new,17796000
+Jemo,emerging,111,2,1,19,1,1,0,0,0,0,0,fair,7878000
+Goro,emerging,123,2,2,16,2,1,0,0,0,0,0,poor,9557000
+Bole,premium,308,3,2,13,1,1,1,1,1,1,1,poor,67086000
+Kirkos,mid,133,2,1,18,2,0,0,1,0,0,1,poor,13476000
+Old Airport,premium,176,2,1,14,1,1,0,1,1,1,1,poor,36220000
+Jemo,emerging,52,1,1,17,2,0,0,0,0,0,0,poor,3075000
+CMC,mid-high,197,4,4,17,2,1,0,0,1,1,0,poor,24026000
+Piassa,mid,98,1,1,24,1,0,0,1,0,1,0,poor,8381000
+Yeka,mid,96,1,1,28,1,1,0,0,0,1,0,good,10424000
+Kazanchis,premium,297,3,3,23,1,1,1,1,1,1,1,fair,68482000
+Megenagna,mid-high,107,3,2,7,1,1,0,0,1,1,1,good,22507000
+Akaki Kality,emerging,87,2,1,21,1,1,0,0,0,0,0,good,7183000
+Jemo,emerging,106,1,1,10,1,0,0,0,0,0,0,new,10271000
+Old Airport,premium,209,3,2,29,2,1,1,1,1,1,1,poor,35284000
+Lebu,mid,172,1,1,9,2,1,0,0,0,0,0,fair,20664000
+Lideta,mid,123,2,2,8,1,0,0,1,0,1,1,fair,15263000
+Yeka,mid,151,2,1,23,1,0,0,0,0,1,0,good,18489000
+Goro,emerging,99,3,3,2,1,0,0,0,0,0,0,good,11952000
+Summit,mid-high,81,2,2,7,1,1,0,0,1,0,0,fair,12847000
+Kirkos,mid,61,2,2,22,2,0,0,1,0,0,1,new,9086000
+Lideta,mid,178,2,1,20,3,1,0,1,0,1,1,good,23895000
+Megenagna,mid-high,196,4,4,13,2,1,1,0,1,1,1,good,44769000
+Kazanchis,premium,389,3,3,2,1,1,1,1,1,1,1,new,157457000
+Gerji,mid-high,226,4,3,5,3,1,0,0,0,1,0,poor,30292000
+Kirkos,mid,122,1,1,25,1,0,0,1,0,0,1,poor,10653000
+Kolfe,emerging,84,1,1,8,2,1,0,0,0,0,0,good,8167000
+Bole Bulbula,mid,149,1,1,29,1,1,0,0,0,0,0,new,13760000
+Megenagna,mid-high,244,5,5,11,2,1,1,0,1,1,1,poor,44287000
+Goro,emerging,55,2,1,20,1,1,0,0,0,0,0,good,5359000
+Megenagna,mid-high,137,1,1,9,1,1,0,0,1,1,1,poor,21682000
+Summit,mid-high,197,3,2,8,1,1,0,0,1,0,0,new,39709000
+Bole,premium,243,2,1,3,2,1,1,1,1,1,1,new,93469000
+Kolfe,emerging,74,2,1,24,1,1,0,0,0,0,0,good,5414000
+Kirkos,mid,100,3,3,7,1,0,0,1,0,0,1,good,15332000
+Piassa,mid,135,2,2,17,1,0,0,1,0,1,0,poor,13880000
+Akaki Kality,emerging,97,1,1,12,2,0,0,0,0,0,0,poor,6473000
+Megenagna,mid-high,198,1,1,30,3,1,1,0,1,1,1,good,33528000
+Ayat,mid,142,1,1,27,2,0,0,0,0,0,0,good,12073000
+Old Airport,premium,157,2,1,15,2,1,0,1,1,1,1,fair,39882000
+Gerji,mid-high,110,2,1,22,2,1,0,0,0,1,0,good,15427000
+Ayat,mid,159,2,2,14,2,1,0,0,0,0,0,fair,16557000
+Sarbet,premium,360,3,2,11,1,1,0,1,1,1,0,good,87437000
+Piassa,mid,179,4,4,9,2,0,0,1,0,1,0,good,28170000
+Ayat,mid,92,2,2,14,1,0,0,0,0,0,0,good,9404000
+CMC,mid-high,218,5,4,16,1,1,0,0,1,1,0,new,43641000
+Summit,mid-high,97,1,1,6,2,1,0,0,1,0,0,poor,12984000
+Jemo,emerging,129,3,2,0,1,1,0,0,0,0,0,new,13704000
+Piassa,mid,96,1,1,25,1,1,0,1,0,1,0,new,14298000
+Summit,mid-high,129,4,4,26,1,1,0,0,1,0,0,fair,14800000
+Goro,emerging,103,3,2,22,2,0,0,0,0,0,0,new,11018000
+Old Airport,premium,167,3,3,12,1,1,1,1,1,1,1,new,56442000
+Akaki Kality,emerging,127,3,2,28,1,1,0,0,0,0,0,good,8977000
+Kirkos,mid,120,2,1,29,1,0,0,1,0,0,1,new,14995000
+Bole,premium,226,4,3,24,2,1,1,1,1,1,1,new,66867000
+Kirkos,mid,166,3,3,12,1,1,0,1,0,0,1,fair,20698000
+Kazanchis,premium,294,4,4,24,2,1,0,1,1,1,1,poor,51496000
+Goro,emerging,100,1,1,2,1,1,0,0,0,0,0,good,11768000
+Megenagna,mid-high,177,5,4,23,2,1,0,0,1,1,1,new,34279000
+Kolfe,emerging,91,2,1,4,1,0,0,0,0,0,0,poor,6562000
+Sarbet,premium,133,1,1,17,1,1,0,1,1,1,0,fair,26554000
+Akaki Kality,emerging,94,1,1,18,2,1,0,0,0,0,0,poor,5919000
+Yeka,mid,123,2,1,5,1,0,0,0,0,1,0,fair,16301000
+Yeka,mid,180,2,2,19,1,1,1,0,0,1,0,fair,20335000
+Goro,emerging,87,2,2,13,2,1,0,0,0,0,0,good,8982000
+Gerji,mid-high,202,3,2,30,2,1,0,0,0,1,0,fair,23786000
+Kirkos,mid,160,2,2,12,2,0,1,1,0,0,1,new,31665000
+Piassa,mid,83,3,2,30,2,1,0,1,0,1,0,good,9591000
+Kazanchis,premium,329,5,5,4,1,1,1,1,1,1,1,fair,95764000
+Goro,emerging,54,2,2,18,2,0,0,0,0,0,0,poor,3928000
+Bole Bulbula,mid,149,4,3,3,2,1,0,0,0,0,0,fair,16443000
+Kirkos,mid,142,4,4,30,1,1,0,1,0,0,1,new,17252000
+Lideta,mid,155,4,3,14,3,0,1,1,0,1,1,good,23548000
+Sarbet,premium,271,3,2,3,1,1,1,1,1,1,0,fair,65406000
+Gerji,mid-high,213,3,3,15,2,1,0,0,0,1,0,fair,27389000
+Sarbet,premium,131,3,2,21,1,1,0,1,1,1,0,good,27343000
+Ayat,mid,131,3,3,7,2,1,0,0,0,0,0,good,16333000
+Goro,emerging,48,2,1,14,1,1,0,0,0,0,0,new,5573000
+Kazanchis,premium,172,4,3,11,2,1,0,1,1,1,1,new,55920000
+Lideta,mid,141,3,3,19,1,0,0,1,0,1,1,fair,15420000
+CMC,mid-high,156,4,3,21,1,1,0,0,1,1,0,good,23045000
+Megenagna,mid-high,210,3,3,19,2,1,0,0,1,1,1,poor,28222000
+CMC,mid-high,222,2,2,9,2,1,0,0,1,1,0,poor,33747000
+Bole,premium,368,2,1,26,3,1,0,1,1,1,1,poor,68748000
+Kolfe,emerging,107,1,1,18,1,0,0,0,0,0,0,fair,6717000
+Lebu,mid,81,2,2,17,2,1,0,0,0,0,0,new,10943000
+Bole Bulbula,mid,129,1,1,17,1,0,0,0,0,0,0,new,15459000
+Summit,mid-high,156,1,1,8,1,1,0,0,1,0,0,poor,20305000
+Summit,mid-high,133,4,4,27,2,1,0,0,1,0,0,poor,12172000
+Gerji,mid-high,132,1,1,17,1,1,0,0,0,1,0,good,19375000
+Lebu,mid,133,2,1,4,1,1,0,0,0,0,0,new,23375000
+Megenagna,mid-high,113,1,1,22,1,1,0,0,1,1,1,good,20217000
+Jemo,emerging,63,2,2,20,1,0,0,0,0,0,0,new,5465000
+Kazanchis,premium,326,4,4,22,2,1,1,1,1,1,1,poor,67059000
+Bole,premium,167,3,3,27,3,1,0,1,1,1,1,poor,29591000
+Gerji,mid-high,206,2,2,26,3,1,0,0,0,1,0,good,29508000
+Ayat,mid,174,5,4,1,2,0,1,0,0,0,0,new,27462000
+Kolfe,emerging,103,1,1,6,1,1,0,0,0,0,0,fair,8485000
+Yeka,mid,71,2,2,2,2,0,0,0,0,1,0,good,11215000
+Summit,mid-high,189,5,4,22,1,1,0,0,1,0,0,poor,18161000
+Lideta,mid,147,3,2,0,1,1,0,1,0,1,1,poor,19516000
+Summit,mid-high,178,1,1,3,2,1,0,0,1,0,0,good,33437000
+Megenagna,mid-high,244,5,4,2,1,1,1,0,1,1,1,good,58493000
+Megenagna,mid-high,185,4,4,27,1,1,0,0,1,1,1,good,30202000
+Goro,emerging,89,2,2,25,1,0,0,0,0,0,0,new,7955000
+Lebu,mid,159,1,1,6,2,1,1,0,0,0,0,fair,21901000
+Summit,mid-high,206,3,2,7,3,1,1,0,1,0,0,new,48536000
+Bole Bulbula,mid,179,3,2,12,2,1,1,0,0,0,0,good,23732000
+Kazanchis,premium,128,4,3,0,1,1,0,1,1,1,1,good,36434000
+Goro,emerging,109,2,2,13,1,1,0,0,0,0,0,good,10490000
+Lideta,mid,177,2,1,17,1,0,1,1,0,1,1,fair,22724000
+Summit,mid-high,94,1,1,29,1,1,0,0,1,0,0,new,13071000
+Lebu,mid,145,4,3,3,1,0,0,0,0,0,0,new,21873000
+Lideta,mid,126,2,1,11,1,0,0,1,0,1,1,new,21081000
+Akaki Kality,emerging,79,2,1,8,2,1,0,0,0,0,0,new,9417000
+Old Airport,premium,375,4,3,11,1,1,0,1,1,1,1,new,115276000
+Old Airport,premium,126,2,1,15,1,1,0,1,1,1,1,poor,26098000
+Old Airport,premium,334,2,2,7,2,1,1,1,1,1,1,fair,101886000
+Sarbet,premium,377,5,4,5,3,1,0,1,1,1,0,new,129974000
+Kolfe,emerging,81,2,2,2,1,1,0,0,0,0,0,fair,6915000
+Lebu,mid,154,4,3,14,1,0,1,0,0,0,0,good,18417000
+Bole,premium,239,4,4,20,1,1,1,1,1,1,1,fair,52592000
+Lebu,mid,73,1,1,13,1,0,0,0,0,0,0,good,8700000
+Summit,mid-high,213,3,3,14,1,1,1,0,1,0,0,new,40468000
+Goro,emerging,54,2,1,13,1,1,0,0,0,0,0,good,5380000
+Goro,emerging,86,2,2,8,1,0,0,0,0,0,0,good,9388000
+Megenagna,mid-high,107,1,1,14,1,1,0,0,1,1,1,poor,14357000
+Gerji,mid-high,195,2,2,8,1,1,1,0,0,1,0,good,36320000
+Old Airport,premium,230,3,2,2,2,1,1,1,1,1,1,poor,61068000
+Yeka,mid,164,2,1,30,3,0,1,0,0,1,0,good,18698000
+Megenagna,mid-high,111,1,1,26,1,1,0,0,1,1,1,good,16680000
+Kazanchis,premium,252,1,1,2,2,1,0,1,1,1,1,good,77767000
+Ayat,mid,75,1,1,1,2,0,0,0,0,0,0,poor,7926000
+Bole,premium,315,5,5,5,1,1,0,1,1,1,1,fair,85935000
+Old Airport,premium,245,5,5,15,3,1,1,1,1,1,1,poor,51866000
+Megenagna,mid-high,187,2,1,20,3,1,1,0,1,1,1,new,48246000
+Bole Bulbula,mid,121,4,4,11,2,1,0,0,0,0,0,fair,12153000
+Ayat,mid,136,2,1,28,1,1,0,0,0,0,0,new,14709000
+Bole Bulbula,mid,158,4,3,5,2,0,1,0,0,0,0,new,25432000
+Kirkos,mid,168,3,3,29,1,1,1,1,0,0,1,good,21470000
+Bole Bulbula,mid,176,4,3,22,3,1,1,0,0,0,0,good,19462000
+Jemo,emerging,114,2,1,15,1,0,0,0,0,0,0,good,8765000
+Jemo,emerging,45,2,1,25,2,0,0,0,0,0,0,good,3422000
+Ayat,mid,67,1,1,18,1,1,0,0,0,0,0,new,8806000
+Kazanchis,premium,311,5,5,18,2,1,0,1,1,1,1,fair,65588000
+Akaki Kality,emerging,126,3,3,5,2,1,0,0,0,0,0,fair,11482000
+CMC,mid-high,176,2,2,4,1,1,0,0,1,1,0,poor,28026000
+Kirkos,mid,64,1,1,29,2,1,0,1,0,0,1,good,7825000
+Jemo,emerging,63,2,1,7,1,0,0,0,0,0,0,good,5757000
+Ayat,mid,117,1,1,6,1,0,0,0,0,0,0,fair,11657000
+Bole,premium,144,3,3,23,1,1,0,1,1,1,1,good,36965000
+Goro,emerging,89,3,3,3,2,1,0,0,0,0,0,good,9932000
+Old Airport,premium,270,1,1,8,1,1,1,1,1,1,1,fair,68876000
+Kazanchis,premium,400,1,1,19,2,1,1,1,1,1,1,new,124502000
+Akaki Kality,emerging,65,1,1,10,1,0,0,0,0,0,0,poor,4709000
+Piassa,mid,93,2,2,7,1,0,0,1,0,1,0,poor,9964000
+Akaki Kality,emerging,56,2,2,6,1,0,0,0,0,0,0,good,5737000
+Jemo,emerging,59,2,2,15,2,0,0,0,0,0,0,fair,3979000
+CMC,mid-high,174,3,3,5,2,1,1,0,1,1,0,poor,27748000
+Yeka,mid,132,1,1,24,1,1,0,0,0,1,0,new,19374000
+Akaki Kality,emerging,120,1,1,26,2,0,0,0,0,0,0,poor,7418000
+Jemo,emerging,118,1,1,9,2,0,0,0,0,0,0,new,12368000
+Kirkos,mid,146,4,3,3,1,1,0,1,0,0,1,good,26454000
+Gerji,mid-high,129,2,1,13,1,1,0,0,0,1,0,poor,14859000
+Megenagna,mid-high,232,2,2,29,1,1,1,0,1,1,1,new,41552000
+Ayat,mid,169,2,2,29,3,1,1,0,0,0,0,poor,11963000
+Kirkos,mid,135,4,3,29,1,0,0,1,0,0,1,fair,14432000
+Akaki Kality,emerging,78,2,2,18,1,1,0,0,0,0,0,good,6300000
+Goro,emerging,49,2,2,22,2,0,0,0,0,0,0,poor,3569000
+Bole,premium,292,2,2,8,1,1,1,1,1,1,1,good,90533000
+Kolfe,emerging,86,2,2,19,1,1,0,0,0,0,0,poor,5035000
+Jemo,emerging,111,2,1,16,1,1,0,0,0,0,0,fair,8013000
+Lideta,mid,172,4,3,5,1,0,1,1,0,1,1,good,25506000
+Bole Bulbula,mid,150,2,2,11,2,1,0,0,0,0,0,poor,13311000
+Bole,premium,243,3,3,19,2,1,1,1,1,1,1,fair,61080000
+Yeka,mid,155,1,1,0,3,0,0,0,0,1,0,good,29967000
+Gerji,mid-high,148,4,4,16,1,1,0,0,0,1,0,new,25107000
+CMC,mid-high,233,1,1,8,2,1,1,0,1,1,0,fair,42031000
+Bole Bulbula,mid,118,2,1,14,2,0,0,0,0,0,0,poor,9505000
+Bole Bulbula,mid,131,4,4,9,1,1,0,0,0,0,0,new,16784000
+Ayat,mid,170,2,2,20,2,1,1,0,0,0,0,good,18645000
+Old Airport,premium,326,5,5,21,1,1,0,1,1,1,1,poor,62615000
+Akaki Kality,emerging,96,2,1,18,2,1,0,0,0,0,0,good,8521000
+Piassa,mid,141,3,3,16,1,0,0,1,0,1,0,good,18311000
+Yeka,mid,152,4,3,30,1,1,0,0,0,1,0,good,16784000
+Lebu,mid,113,2,2,8,1,1,0,0,0,0,0,new,17398000
+Kirkos,mid,134,4,3,15,2,1,0,1,0,0,1,new,24958000
+Lebu,mid,112,1,1,4,1,1,0,0,0,0,0,poor,12847000
+Kolfe,emerging,63,2,1,24,1,0,0,0,0,0,0,good,4236000
+Kolfe,emerging,80,1,1,18,1,1,0,0,0,0,0,new,7028000
+Akaki Kality,emerging,96,2,2,12,2,0,0,0,0,0,0,good,9648000
+Ayat,mid,156,4,3,0,1,1,1,0,0,0,0,good,22834000
+Megenagna,mid-high,106,2,2,5,1,1,0,0,1,1,1,new,25280000
+Lideta,mid,136,4,4,13,1,1,0,1,0,1,1,fair,18732000
+Gerji,mid-high,122,3,2,7,1,1,0,0,0,1,0,good,19408000
+Lideta,mid,81,1,1,22,1,1,0,1,0,1,1,poor,8030000
+Piassa,mid,139,1,1,21,1,0,0,1,0,1,0,new,20410000
+Goro,emerging,60,2,2,15,1,1,0,0,0,0,0,new,6615000
+Lideta,mid,94,3,2,13,1,1,0,1,0,1,1,new,15398000
+Jemo,emerging,70,2,1,24,2,0,0,0,0,0,0,good,4832000
+CMC,mid-high,90,3,3,29,1,1,0,0,1,1,0,poor,8632000
+Kazanchis,premium,176,4,4,4,3,1,1,1,1,1,1,new,71683000
+Yeka,mid,142,2,2,9,1,0,0,0,0,1,0,new,25774000
+Lebu,mid,106,2,2,23,1,0,0,0,0,0,0,new,13180000
+CMC,mid-high,164,3,3,30,1,1,1,0,1,1,0,fair,21290000
+Goro,emerging,96,2,2,26,1,0,0,0,0,0,0,poor,5936000
+Sarbet,premium,187,1,1,3,3,1,1,1,1,1,0,poor,46348000
+CMC,mid-high,236,3,3,19,1,1,0,0,1,1,0,poor,29600000
+Akaki Kality,emerging,101,1,1,8,1,1,0,0,0,0,0,good,10842000
+Ayat,mid,126,4,3,13,1,1,0,0,0,0,0,poor,10628000
+Goro,emerging,64,2,1,0,1,1,0,0,0,0,0,poor,6198000
+Kazanchis,premium,371,3,2,10,1,1,1,1,1,1,1,good,109296000
+Summit,mid-high,100,2,2,25,2,1,0,0,1,0,0,poor,9558000
+Ayat,mid,75,2,1,3,1,0,0,0,0,0,0,new,11572000
+Lebu,mid,173,4,3,20,2,1,1,0,0,0,0,new,26276000
+Ayat,mid,131,4,4,22,2,1,0,0,0,0,0,poor,9781000
+Summit,mid-high,80,2,2,26,2,1,0,0,1,0,0,fair,9441000
+Sarbet,premium,143,2,2,4,2,1,0,1,1,1,0,poor,28062000
+Gerji,mid-high,110,2,1,14,1,1,0,0,0,1,0,fair,14077000
+Kirkos,mid,75,2,2,21,2,1,0,1,0,0,1,good,10986000
+Old Airport,premium,341,4,4,29,1,1,1,1,1,1,1,good,76877000
+Goro,emerging,129,4,4,16,1,1,0,0,0,0,0,good,12349000
+Lebu,mid,117,1,1,13,2,1,0,0,0,0,0,fair,14054000
+Ayat,mid,151,4,3,6,2,0,1,0,0,0,0,good,22033000
+CMC,mid-high,208,4,4,22,2,1,0,0,1,1,0,poor,26057000
+Akaki Kality,emerging,113,2,2,25,1,0,0,0,0,0,0,new,9118000
+Old Airport,premium,222,2,1,9,1,1,1,1,1,1,1,new,79059000
+Piassa,mid,64,2,2,3,2,1,0,1,0,1,0,good,11695000
+Summit,mid-high,210,2,1,29,2,1,0,0,1,0,0,fair,24561000
+Yeka,mid,85,3,3,26,2,0,0,0,0,1,0,fair,9294000
+Gerji,mid-high,129,2,2,5,2,1,0,0,0,1,0,new,25563000
+Lideta,mid,75,2,1,13,1,0,0,1,0,1,1,good,10101000
+Bole,premium,289,3,2,1,2,1,0,1,1,1,1,new,121158000
+Lebu,mid,122,4,4,2,1,1,0,0,0,0,0,good,18628000
+Lideta,mid,80,2,2,2,1,0,0,1,0,1,1,fair,10914000
+Lideta,mid,120,3,2,3,1,1,0,1,0,1,1,good,21318000
+Summit,mid-high,90,2,2,29,1,1,0,0,1,0,0,poor,7957000
+Bole,premium,384,3,3,15,1,1,0,1,1,1,1,fair,95293000
+CMC,mid-high,217,4,3,20,1,1,0,0,1,1,0,poor,26604000
+Akaki Kality,emerging,127,1,1,0,1,0,0,0,0,0,0,new,13940000
+Yeka,mid,131,1,1,29,1,0,0,0,0,1,0,poor,10734000
+Bole,premium,319,5,4,17,3,1,0,1,1,1,1,new,112304000
+Kazanchis,premium,303,4,3,9,2,1,1,1,1,1,1,new,108055000
+Goro,emerging,95,1,1,5,1,1,0,0,0,0,0,poor,8566000
+Lebu,mid,141,2,2,21,2,1,0,0,0,0,0,fair,14781000
+Piassa,mid,78,1,1,0,1,1,0,1,0,1,0,new,15271000
+Bole Bulbula,mid,87,2,1,5,2,0,0,0,0,0,0,fair,8812000
+Kirkos,mid,169,1,1,20,1,1,0,1,0,0,1,fair,19180000
+Jemo,emerging,87,2,1,21,1,1,0,0,0,0,0,fair,5905000
+Ayat,mid,122,3,3,19,2,1,0,0,0,0,0,good,13401000
+Ayat,mid,114,1,1,10,1,0,0,0,0,0,0,poor,9352000
+Ayat,mid,172,3,3,14,3,0,0,0,0,0,0,new,22455000
+Yeka,mid,169,2,1,8,1,1,1,0,0,1,0,new,33971000
+Kirkos,mid,134,3,2,29,1,0,0,1,0,0,1,poor,11308000
+Goro,emerging,73,2,2,4,2,0,0,0,0,0,0,new,9492000
+Summit,mid-high,237,5,4,24,2,1,1,0,1,0,0,good,33966000
+Megenagna,mid-high,203,3,2,7,1,1,1,0,1,1,1,new,49557000
+Gerji,mid-high,212,3,3,15,1,1,1,0,0,1,0,new,42328000
+Lideta,mid,141,2,2,18,1,1,0,1,0,1,1,poor,14485000
+Kazanchis,premium,384,2,2,29,2,1,0,1,1,1,1,fair,76001000
+Jemo,emerging,122,1,1,14,1,0,0,0,0,0,0,fair,7942000
+Bole Bulbula,mid,137,1,1,13,2,1,0,0,0,0,0,new,18074000
+Gerji,mid-high,231,2,2,0,1,1,0,0,0,1,0,good,40803000
+Kirkos,mid,78,1,1,8,2,1,0,1,0,0,1,poor,10132000
+Bole,premium,265,1,1,14,2,1,1,1,1,1,1,poor,59412000
+Megenagna,mid-high,229,2,2,5,2,1,1,0,1,1,1,poor,41037000
+Goro,emerging,94,1,1,0,2,0,0,0,0,0,0,poor,9014000
+CMC,mid-high,201,4,3,28,3,1,1,0,1,1,0,new,35099000
+Piassa,mid,165,1,1,16,3,0,1,1,0,1,0,poor,18909000
+Goro,emerging,89,3,2,13,1,0,0,0,0,0,0,good,8975000
+Piassa,mid,112,2,1,0,1,1,0,1,0,1,0,new,22206000
+Gerji,mid-high,160,3,3,3,3,1,0,0,0,1,0,fair,26978000
+Kirkos,mid,106,3,3,21,1,0,0,1,0,0,1,poor,10352000
+CMC,mid-high,174,4,4,8,3,1,1,0,1,1,0,fair,34795000
+Megenagna,mid-high,248,1,1,14,1,1,1,0,1,1,1,new,55088000
+Ayat,mid,162,4,3,5,1,0,1,0,0,0,0,good,21015000
+Kazanchis,premium,152,2,1,11,1,1,0,1,1,1,1,poor,33181000
+Lideta,mid,96,3,2,30,1,1,0,1,0,1,1,poor,7824000
+Lideta,mid,96,1,1,25,2,1,0,1,0,1,1,good,12483000
+Bole Bulbula,mid,90,1,1,2,1,1,0,0,0,0,0,fair,10263000
+Gerji,mid-high,212,1,1,29,2,1,0,0,0,1,0,fair,23800000
+Summit,mid-high,235,2,2,29,1,1,1,0,1,0,0,fair,25162000
+Piassa,mid,69,2,2,10,2,1,0,1,0,1,0,fair,10493000
+Kirkos,mid,92,2,2,18,1,0,0,1,0,0,1,fair,11697000
+Kolfe,emerging,120,1,1,3,1,0,0,0,0,0,0,good,11703000
+Ayat,mid,112,2,1,22,1,1,0,0,0,0,0,fair,9264000
+Ayat,mid,69,2,1,15,1,0,0,0,0,0,0,fair,6235000
+Gerji,mid-high,207,2,1,23,2,1,0,0,0,1,0,good,28788000
+Bole Bulbula,mid,79,1,1,29,2,0,0,0,0,0,0,poor,5245000
+Piassa,mid,65,2,2,19,2,0,0,1,0,1,0,fair,7933000
+Lideta,mid,95,2,1,24,1,1,0,1,0,1,1,poor,8712000
+Lideta,mid,104,2,1,14,2,1,0,1,0,1,1,poor,11033000
+Gerji,mid-high,177,4,3,10,2,1,0,0,0,1,0,good,30410000
+Jemo,emerging,123,3,3,5,1,0,0,0,0,0,0,poor,8437000
+Goro,emerging,80,2,1,18,2,0,0,0,0,0,0,good,8060000
+Summit,mid-high,222,3,3,6,1,1,0,0,1,0,0,poor,29503000
+Jemo,emerging,62,2,2,25,1,0,0,0,0,0,0,new,4718000
+Old Airport,premium,230,2,2,26,2,1,1,1,1,1,1,fair,47552000
+Piassa,mid,179,2,2,0,3,0,0,1,0,1,0,good,33485000
+Piassa,mid,82,2,2,10,1,1,0,1,0,1,0,poor,9885000
+Lebu,mid,119,1,1,20,1,1,0,0,0,0,0,poor,10127000
